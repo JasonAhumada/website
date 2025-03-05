@@ -4,7 +4,7 @@
 /* Header */
 header {
     background-color: rgb(2, 2, 14);
-    background-image: url("/images/stars.jpg");
+    background-image: url("images/stars.jpg");
     background-size: cover; /* Ensures the image covers the area without zooming */
     background-position: center;
     height: 700px;
@@ -91,7 +91,7 @@ header .logo {
 
 /* Logo Link */
 header .logo a {
-    background-image: url("/images/moon.png");
+    background-image: url("images/moon.png");
     background-size: contain;
     background-repeat: no-repeat;
     display: block;
